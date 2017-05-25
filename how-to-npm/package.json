@@ -1,0 +1,13 @@
+{
+  "name": "@shaina/how-to-npm",
+  "version": "1.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {},
+  "repository": "https://github.com/shaina33/workshoppers/how-to-npm"
+}
